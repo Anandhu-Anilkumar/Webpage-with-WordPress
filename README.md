@@ -1,4 +1,4 @@
-# Lamding page with dynamic content from WordPress
+# Landing page with dynamic content from WordPress
 
 This project is created with [WordPress](https://wordpress.org/) version 6.2. Users can easily update the content and customize the design using themes and plugins.
 
